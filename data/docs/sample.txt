@@ -1,0 +1,22 @@
+Title: Introduction to Human Biology
+
+Human biology is the study of the structure and function of the human body. It includes various systems such as the circulatory system, respiratory system, digestive system, and nervous system.
+
+The circulatory system is responsible for transporting blood, nutrients, oxygen, carbon dioxide, and hormones throughout the body. The heart plays a central role by pumping blood through blood vessels.
+
+The respiratory system allows humans to breathe and exchange gases. Oxygen is inhaled into the lungs and carbon dioxide is expelled. This process is essential for cellular respiration.
+
+The nervous system controls and coordinates body activities. It includes the brain, spinal cord, and nerves. The brain acts as the control center, processing information and sending signals to different parts of the body.
+
+Cells are the basic structural and functional units of life. Every organism is made up of one or more cells. In humans, cells group together to form tissues, organs, and organ systems.
+
+DNA (Deoxyribonucleic Acid) carries genetic information. It determines inherited characteristics and guides protein synthesis.
+
+Question: What is the role of the heart in the circulatory system?
+Answer: The heart pumps blood throughout the body.
+
+Question: What does the respiratory system do?
+Answer: It helps in breathing and gas exchange (oxygen in, carbon dioxide out).
+
+Question: What is DNA responsible for?
+Answer: DNA carries genetic information and determines inherited traits.
